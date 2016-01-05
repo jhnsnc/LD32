@@ -12,13 +12,15 @@ If you have any questions about this repo, please email Chris Johnson at jhnsn[D
 
 For future reference, here's how I was rated for LD32:
 
-| Rank   | Category   | Score |
-| ------ | ---------- | ----- |
-| silver | Coolness   | 89%   |
-| #8     | Audio      | 4.44  |
-| #305   | Fun        | 3.36  |
-| #322   | Overall    | 3.43  |
-| #349   | Mood       | 3.18  |
-| #576   | Graphics   | 3.02  |
-| #660   | Theme      | 3.21  |
-| #760   | Innovation | 2.79  |
+Out of 1353 compo entries
+
+| Rank   | Category   | Score | Percentile |
+| ------ | ---------- | ----- | ---------- |
+| silver | Coolness   | 89%   | -          |
+| #8     | Audio      | 4.44  | 99%        |
+| #305   | Fun        | 3.36  | 77%        |
+| #322   | Overall    | 3.43  | 76%        |
+| #349   | Mood       | 3.18  | 74%        |
+| #576   | Graphics   | 3.02  | 57%        |
+| #660   | Theme      | 3.21  | 51%        |
+| #760   | Innovation | 2.79  | 43%        |
